@@ -1,5 +1,6 @@
 # my-design-system
  My own React component library
+ 
 🚀 Design System – Reusable React Component Library
 
 A scalable and customizable Design System built from scratch, providing a shared library of reusable and accessible UI components for React applications. Inspired by modern libraries like Material UI and Chakra UI.
